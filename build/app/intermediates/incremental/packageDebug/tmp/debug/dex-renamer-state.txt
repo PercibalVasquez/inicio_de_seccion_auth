@@ -1,0 +1,7 @@
+#Sun Oct 15 21:20:15 CLST 2023
+base.0=E\:\\flutter\\inicio_de_seccion_auth\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+base.1=E\:\\flutter\\inicio_de_seccion_auth\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes2.dex
+path.0=classes.dex
+path.1=classes2.dex
+renamed.0=classes.dex
+renamed.1=classes2.dex

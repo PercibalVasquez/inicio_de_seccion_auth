@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyB59LP9GDwP5DJp_MV4zYpxyUA023gtL54</string>
+	<key>GCM_SENDER_ID</key>
+	<string>243848926359</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.inicioDeSeccionAuth</string>
+	<key>PROJECT_ID</key>
+	<string>autenticacionmurdo</string>
+	<key>STORAGE_BUCKET</key>
+	<string>autenticacionmurdo.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:243848926359:ios:ca38f65477bdf943dbc5d2</string>
+</dict>
+</plist>
