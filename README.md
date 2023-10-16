@@ -18,3 +18,5 @@ samples, guidance on mobile development, and a full API reference.
 
 keytool -list -v -keystore C:\Users\NOMBRE_USUARIO\.android\debug.keystore -alias androiddebugkey -storepass android -keypass android
 para generar la keystore se avre cmd en donde este instalado el jdk C:\Program Files\Java\jdk-21
+
+conectando con google
